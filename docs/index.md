@@ -121,7 +121,7 @@ Cada mensaje contiene:
 ./monitoreo.sh comenzar
 
 # 3. Acceder al dashboard
-# http://localhost:8080
+# `http://localhost:8080`
 ```
 
 ## Componentes del Sistema

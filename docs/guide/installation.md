@@ -417,7 +417,7 @@ npm install
 Una vez completada la instalación:
 
 1. [Ejecutar el Sistema](/guide/running) - Aprende a iniciar todos los componentes
-2. [Usar el Dashboard](/guide/usage) - Guía de uso del panel de control
+2. [Usar el Dashboard](/guide/running#acceder-al-dashboard) - Guía de uso del panel de control
 3. [API Reference](/api/websocket) - Documentación técnica de endpoints
 
 ---

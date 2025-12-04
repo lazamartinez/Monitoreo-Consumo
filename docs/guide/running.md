@@ -47,14 +47,14 @@ graph LR
 <i class="fas fa-plug"></i> Iniciando WebSocket Server...
 <i class="fas fa-check-circle"></i> Servidor WebSocket escuchando en puerto 8081
 <i class="fas fa-globe"></i> Iniciando Dashboard...
-<i class="fas fa-check-circle"></i> Servidor HTTP escuchando en http://localhost:8080
+<i class="fas fa-check-circle"></i> Servidor HTTP escuchando en `http://localhost:8080`
 <i class="fas fa-download"></i> Iniciando Subscriber...
 <i class="fas fa-check-circle"></i> Subscriber conectado a MQTT
 <i class="fas fa-chart-bar"></i> Iniciando Publisher...
 <i class="fas fa-check-circle"></i> Publisher conectado a MQTT
 <i class="fas fa-check-circle"></i> Todos los componentes iniciados correctamente!
 
-<i class="fas fa-globe"></i> Abre tu navegador en: http://localhost:8080
+<i class="fas fa-globe"></i> Abre tu navegador en: `http://localhost:8080`
 
 <i class="fas fa-chart-line"></i> El sistema está funcionando. Esperando datos...
 
@@ -102,7 +102,7 @@ node dashboard.js
 
 Verás:
 ```
-<i class="fas fa-check-circle"></i> Servidor HTTP escuchando en http://localhost:8080
+<i class="fas fa-check-circle"></i> Servidor HTTP escuchando en `http://localhost:8080`
 ```
 
 #### 4. Iniciar Subscriber
@@ -161,7 +161,7 @@ Verás:
 Una vez iniciado el sistema:
 
 1. Abre tu navegador
-2. Navega a: **http://localhost:8080**
+2. Navega a: `http://localhost:8080`
 3. Verás el dashboard con datos en tiempo real
 
 ### Características del Dashboard
@@ -407,7 +407,7 @@ cat credentials/firebase-credentials.json | jq .
 
 ## Próximos Pasos
 
-- [Uso del Dashboard](/guide/usage) - Guía detallada del panel de control
+- [Uso del Dashboard](/guide/running#acceder-al-dashboard) - Guía detallada del panel de control
 - [API WebSocket](/api/websocket) - Referencia técnica de endpoints
 - [API MQTT](/api/mqtt) - Estructura de tópicos y mensajes
 

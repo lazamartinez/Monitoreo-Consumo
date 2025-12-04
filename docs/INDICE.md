@@ -192,7 +192,7 @@ graph TB
 ## <i class="fas fa-phone"></i> Contacto y Soporte
 
 Para preguntas sobre este proyecto:
-- Consultar la [documentación completa](http://localhost:5173)
+- Consultar la [documentación completa](/)
 - Revisar la sección de [solución de problemas](./guide/installation.md#solución-de-problemas)
 - Verificar los [logs del sistema](./guide/running.md#monitoreo-de-logs)
 
